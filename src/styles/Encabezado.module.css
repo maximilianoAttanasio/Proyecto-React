@@ -1,0 +1,15 @@
+#encabezado {
+    color: #fff;
+    text-decoration: underline;
+    font-size: 2rem;
+    padding: 50px;
+    font-family: Nunito, sans-serif;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.icono{
+    color: #fff;
+    font-size: 3rem;
+}
